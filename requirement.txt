@@ -1,4 +1,4 @@
-#aiScaler
+#aiScaler!LargeInstall!
 Pillow=>9.4.0
 fitz=>1.19.6  # PyMuPDF
 scikit-image=>0.19.3
