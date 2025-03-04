@@ -1,0 +1,3 @@
+Pillow>=8.0.0
+pywin32>=304      # Use on Windows only
+pycups>=1.9.73    # Use on Linux/macOS only
