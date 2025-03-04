@@ -1,5 +1,4 @@
 #poster_creator
-#Requirements:
 Python 3.x
 Pillow (for image processing)
 PyMuPDF (fitz) (for working with PDFs)
