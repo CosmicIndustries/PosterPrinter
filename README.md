@@ -57,7 +57,7 @@ You will be prompted to enter the path to the folder containing images to print.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-#**Poster Creator** 
+# **Poster Creator** 
 script (for splitting and printing high-resolution posters):
 
 ---
